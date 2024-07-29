@@ -1,9 +1,9 @@
-#WanderHome
+# WanderHome
 
-Description
+# Description
 WanderHome is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This project aims to provide a seamless and efficient user experience for [brief description of the project's purpose, e.g., booking vacation rentals, managing tasks, etc.]. The application features a responsive design, robust backend services, and a user-friendly interface.
 
-Technologies Used
+# Technologies Used
 Frontend
 React: A JavaScript library for building user interfaces, allowing for the creation of reusable UI components.
 Redux: A state management library to manage the application's state.
@@ -31,7 +31,7 @@ RESTful API: Efficient and scalable API to handle frontend requests.
 State Management: Centralized state management using Redux for predictable state updates.
 
 
-Installation
+# Installation
 Clone the repository:
 
 git clone https://github.com/pratibha131/WanderHome.git
