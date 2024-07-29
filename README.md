@@ -1,6 +1,7 @@
-WanderHome
+#WanderHome
+
 Description
-Project Name is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This project aims to provide a seamless and efficient user experience for [brief description of the project's purpose, e.g., booking vacation rentals, managing tasks, etc.]. The application features a responsive design, robust backend services, and a user-friendly interface.
+WanderHome is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This project aims to provide a seamless and efficient user experience for [brief description of the project's purpose, e.g., booking vacation rentals, managing tasks, etc.]. The application features a responsive design, robust backend services, and a user-friendly interface.
 
 Technologies Used
 Frontend
